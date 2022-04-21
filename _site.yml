@@ -1,5 +1,9 @@
 name: "AJ Acacio's Personal GitHub Website"
 output_dir: "."
+output:
+  html_document:
+    theme: darkly
+    highlight: tango
 navbar:
   title: "AJ Acacio's Personal GitHub Website"
   left:
