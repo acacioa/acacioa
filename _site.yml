@@ -1,0 +1,12 @@
+name: "AJ Acacio's Personal GitHub Website"
+output_dir: "."
+navbar:
+  title: "AJ Acacio's Personal GitHub Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "AJ"
+      href: aj_acacio.html
+      
